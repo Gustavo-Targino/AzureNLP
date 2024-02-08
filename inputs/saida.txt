@@ -1,0 +1,1 @@
+Olá, meu nome é Gustavo Targino. Estou utilizando o serviço de tradução de voz em texto com o Azure AI Speech.
